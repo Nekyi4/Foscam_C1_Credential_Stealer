@@ -1,4 +1,4 @@
-# Foscam_C1_Credential_Stealer
+# Foscam_C1_Security_Analysis
 
 A univeristy proof of concept project that explores the vulnerabilities of the FOSCAM C1 camera.
 
