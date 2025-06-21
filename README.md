@@ -1,6 +1,6 @@
 # Foscam_C1_Credential_Stealer
 
-A proof of concept project that explores the vulnerabilities of the FOSCAM C1 camera.
+A univeristy proof of concept project that explores the vulnerabilities of the FOSCAM C1 camera.
 
 **Quick video presentation**: [https://youtu.be/xT1AmdON0yg](https://youtu.be/xT1AmdON0yg)
 
